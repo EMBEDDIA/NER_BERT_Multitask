@@ -21,6 +21,6 @@ Please cite this work using the following paper:
 }
 
 ```
-# I found a bug
+# Have you found a bug
 
-We cleaned the code before making it public, if you find any bug, please, let us know. 
+We cleaned the code before making it public, if you find any bug, please, let us know by raising an issue. 
