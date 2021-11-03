@@ -1,8 +1,8 @@
 # Simple ways to improve NER in every language using markup
 
-This is the code related to the paper [Simple ways to improve NER in every language using markup](http://ceur-ws.org/Vol-2829/paper2.pdf)
+This is the code related to the paper [Simple ways to improve NER in every language using markup](http://ceur-ws.org/Vol-2829/paper2.pdf). This paper explores different and quick approaches to improve the performance of NER systems. The experiements were done over different langauges like English, Spanish, Croatian and Finnish.
 
-An improved version of the code ca be found in https://github.com/EMBEDDIA/NER_FEDA, where as well a Frustratingly Easy Domain Adaptation for NER
+An improved version of the code ca be found in https://github.com/EMBEDDIA/NER_FEDA, where we explore as well a Frustratingly Easy Domain Adaptation for NER.
 
 # How to cite this work?
 
